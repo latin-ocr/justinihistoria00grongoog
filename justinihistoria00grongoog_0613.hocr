@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./justinihistoria00grongoog_0613.png"; bbox 0 0 2909 4834; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 227 1583 1031 1672">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 227 1583 1031 1672">
+     <span class='ocr_line' id='line_1_1' title="bbox 227 1583 1031 1672; baseline 0.002 -5"><span class='ocrx_word' id='word_1_1' title='bbox 227 1583 231 1592; x_wconf 78' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 373 1593 596 1672; x_wconf 79' lang='lat' dir='ltr'><strong>JAcom</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 639 1592 983 1672; x_wconf 81' lang='lat' dir='ltr'><strong>BONGARSH</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1025 1661 1031 1669; x_wconf 84' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 167 1931 1200 2013">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 167 1931 1200 2013">
+     <span class='ocr_line' id='line_1_2' title="bbox 167 1931 1200 2013; baseline 0.001 -4"><span class='ocrx_word' id='word_1_5' title='bbox 167 1932 648 2013; x_wconf 81' lang='lat' dir='ltr'>EXCERPTIONES</span> <span class='ocrx_word' id='word_1_6' title='bbox 688 1931 1200 2013; x_wconf 86' lang='lat' dir='ltr'><strong>CHRONOLOGICAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 657 2283 709 2338">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 657 2283 709 2338">
+     <span class='ocr_line' id='line_1_3' title="bbox 657 2283 709 2338; baseline -0.058 0"><span class='ocrx_word' id='word_1_7' title='bbox 657 2283 709 2338; x_wconf 73' lang='lat' dir='ltr'><strong>An</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 351 2573 1137 2673">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 351 2573 1137 2673">
+     <span class='ocr_line' id='line_1_4' title="bbox 351 2573 1137 2673; baseline 0.009 -5"><span class='ocrx_word' id='word_1_8' title='bbox 351 2576 614 2670; x_wconf 88' lang='lat' dir='ltr'>JUSTINI</span> <span class='ocrx_word' id='word_1_9' title='bbox 656 2573 1018 2673; x_wconf 86' lang='lat' dir='ltr'>HISTORIAS</span> <span class='ocrx_word' id='word_1_10' title='bbox 1132 2628 1137 2634; x_wconf 93' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 485 2919 881 2989">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 485 2919 881 2989">
+     <span class='ocr_line' id='line_1_5' title="bbox 485 2919 881 2989; baseline -0.008 -1"><span class='ocrx_word' id='word_1_11' title='bbox 485 2919 881 2989; x_wconf 82' lang='lat' dir='ltr'><strong>AGGOMMODATAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1460 4834">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1460 4834">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1460 4834; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1460 4834; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
